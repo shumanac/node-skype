@@ -1,0 +1,15 @@
+{
+  "name": "ndskype",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "postinstall": "virtualenv-postinstall"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "skyper": "0.0.10",
+    "virtualenv": "*"
+  }
+}
